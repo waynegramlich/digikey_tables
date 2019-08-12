@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<Table name="optoelectronics-display-modules-lcd-oled-graphic" csv_file_name="optoelectronics-display-modules-lcd-oled-graphic.csv" url="https://www.digikey.com/products/en/optoelectronics/display-modules-lcd-oled-graphic/107"  title="LCD, OLED, Graphic">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="Empty" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DisplayType" type="String" csv="Display Type" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DisplayType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DisplayMode" type="String" csv="Display Mode" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DisplayMode">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Touchscreen" type="Empty" csv="Touchscreen" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Touchscreen">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DiagonalScreenSize" type="String" csv="Diagonal Screen Size" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DiagonalScreenSize">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ViewingArea" type="String" csv="Viewing Area" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ViewingArea">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Backlight" type="String" csv="Backlight" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Backlight">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DotPixels" type="String" csv="Dot Pixels" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DotPixels">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Interface" type="String" csv="Interface" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Interface">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="GraphicsColor" type="List" csv="Graphics Color" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="GraphicsColor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="BackgroundColor" type="Empty" csv="Background Color" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="BackgroundColor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

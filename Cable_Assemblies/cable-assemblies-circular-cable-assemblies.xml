@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<Table name="cable-assemblies-circular-cable-assemblies" csv_file_name="cable-assemblies-circular-cable-assemblies.csv" url="https://www.digikey.com/products/en/cable-assemblies/circular-cable-assemblies/448"  title="Circular Cable Assemblies">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorType" type="String" csv="1st Connector Type" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorGender" type="String" csv="1st Connector Gender" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorGender">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorNumberOfPositions" type="Integer" csv="1st Connector Number of Positions" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorNumberOfPositions">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorNumberOfPositionsLoaded" type="String" csv="1st Connector Number of Positions Loaded" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorNumberOfPositionsLoaded">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorShellSizeInsert" type="String" csv="1st Connector Shell Size - Insert" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorShellSizeInsert">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorOrientation" type="String" csv="1st Connector Orientation" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorOrientation">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="1stConnectorMountingType" type="String" csv="1st Connector Mounting Type" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="1stConnectorMountingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorType" type="String" csv="2nd Connector Type" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorGender" type="Empty" csv="2nd Connector Gender" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorGender">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorNumberOfPositions" type="Empty" csv="2nd Connector Number of Positions" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorNumberOfPositions">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorNumberOfPositionsLoaded" type="Empty" csv="2nd Connector Number of Positions Loaded" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorNumberOfPositionsLoaded">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorShellSizeInsert" type="Empty" csv="2nd Connector Shell Size - Insert" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorShellSizeInsert">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorOrientation" type="Empty" csv="2nd Connector Orientation" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorOrientation">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="2ndConnectorMountingType" type="Empty" csv="2nd Connector Mounting Type" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="2ndConnectorMountingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Length" type="String" csv="Length" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Length">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="AssemblyConfiguration" type="String" csv="Assembly Configuration" csv_index="28">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="AssemblyConfiguration">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CableType" type="String" csv="Cable Type" csv_index="29">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CableType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CableMaterial" type="String" csv="Cable Material" csv_index="30">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CableMaterial">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Color" type="String" csv="Color" csv_index="31">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Color">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Shielding" type="String" csv="Shielding" csv_index="32">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Shielding">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="IngressProtection" type="List" csv="Ingress Protection" csv_index="33">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="IngressProtection">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Usage" type="String" csv="Usage" csv_index="34">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Usage">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

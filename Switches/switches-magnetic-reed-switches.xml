@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<Table name="switches-magnetic-reed-switches" csv_file_name="switches-magnetic-reed-switches.csv" url="https://www.digikey.com/products/en/switches/magnetic-reed-switches/193"  title="Magnetic, Reed Switches">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Packaging" type="String" csv="Packaging" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Packaging">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Type" type="String" csv="Type" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Type">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Circuit" type="String" csv="Circuit" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Circuit">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperateRange" type="Range" csv="Operate Range" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperateRange">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ReleaseRange" type="Empty" csv="Release Range" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ReleaseRange">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CurrentSwitching" type="String" csv="Current - Switching" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CurrentSwitching">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageSwitchingAC" type="IUnits" csv="Voltage - Switching AC" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageSwitchingAC">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageSwitchingDC" type="IUnits" csv="Voltage - Switching DC" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageSwitchingDC">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PowerRated" type="IUnits" csv="Power - Rated" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PowerRated">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperateTime" type="String" csv="Operate Time" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperateTime">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ReleaseTime" type="String" csv="Release Time" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ReleaseTime">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MountingType" type="String" csv="Mounting Type" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MountingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="TerminationStyle" type="String" csv="Termination Style" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="TerminationStyle">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LengthOverall" type="String" csv="Length - Overall" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LengthOverall">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SizeBody" type="String" csv="Size - Body" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SizeBody">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="HeightAboveBoard" type="Empty" csv="Height Above Board" csv_index="28">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="HeightAboveBoard">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperatingTemperature" type="Range" csv="Operating Temperature" csv_index="29">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperatingTemperature">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Capacitance" type="FUnits" csv="Capacitance" csv_index="30">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Capacitance">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CurrentCarry" type="String" csv="Current - Carry" csv_index="31">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CurrentCarry">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

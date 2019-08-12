@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<Table name="optoelectronics-led-indication-discrete" csv_file_name="optoelectronics-led-indication-discrete.csv" url="https://www.digikey.com/products/en/optoelectronics/led-indication-discrete/105"  title="LED Indication - Discrete">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Packaging" type="String" csv="Packaging" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Packaging">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="Empty" csv="Series" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Color" type="String" csv="Color" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Color">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Configuration" type="String" csv="Configuration" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Configuration">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LensColor" type="String" csv="Lens Color" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LensColor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LensTransparency" type="String" csv="Lens Transparency" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LensTransparency">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MillicandelaRating" type="String" csv="Millicandela Rating" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MillicandelaRating">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LensStyle" type="String" csv="Lens Style" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LensStyle">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LensSize" type="String" csv="Lens Size" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LensSize">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageForwardVfTyp" type="FUnits" csv="Voltage - Forward (Vf) (Typ)" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageForwardVfTyp">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CurrentTest" type="String" csv="Current - Test" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CurrentTest">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ViewingAngle" type="String" csv="Viewing Angle" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ViewingAngle">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MountingType" type="String" csv="Mounting Type" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MountingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="WavelengthDominant" type="IUnits" csv="Wavelength - Dominant" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="WavelengthDominant">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="WavelengthPeak" type="IUnits" csv="Wavelength - Peak" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="WavelengthPeak">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Features" type="Empty" csv="Features" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Features">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PackageCase" type="String" csv="Package / Case" csv_index="28">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PackageCase">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SupplierDevicePackage" type="String" csv="Supplier Device Package" csv_index="29">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SupplierDevicePackage">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SizeDimension" type="String" csv="Size / Dimension" csv_index="30">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SizeDimension">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="HeightMax" type="String" csv="Height (Max)" csv_index="31">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="HeightMax">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

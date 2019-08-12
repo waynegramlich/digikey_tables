@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<Table name="development-boards-kits-programmers-evaluation-boards-linear-voltage-regulators" csv_file_name="development-boards-kits-programmers-evaluation-boards-linear-voltage-regulators.csv" url="https://www.digikey.com/products/en/development-boards-kits-programmers/evaluation-boards-linear-voltage-regulators/790"  title="Linear Voltage Regulators">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="Empty" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ChannelsPerIC" type="String" csv="Channels per IC" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ChannelsPerIC">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageOutput" type="FUnits" csv="Voltage - Output" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageOutput">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CurrentOutput" type="String" csv="Current - Output" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CurrentOutput">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageInput" type="Range" csv="Voltage - Input" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageInput">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="RegulatorType" type="String" csv="Regulator Type" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="RegulatorType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="BoardType" type="String" csv="Board Type" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="BoardType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SuppliedContents" type="String" csv="Supplied Contents" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SuppliedContents">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UtilizedICPart" type="String" csv="Utilized IC / Part" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UtilizedICPart">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

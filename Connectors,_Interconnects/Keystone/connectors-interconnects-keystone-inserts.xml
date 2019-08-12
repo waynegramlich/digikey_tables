@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<Table name="connectors-interconnects-keystone-inserts" csv_file_name="connectors-interconnects-keystone-inserts.csv" url="https://www.digikey.com/products/en/connectors-interconnects/keystone-inserts/428"  title="Inserts">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Style" type="String" csv="Style" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Style">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExteriorTypeAdapterEnd" type="List" csv="Exterior Type (Adapter End)" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExteriorTypeAdapterEnd">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="InteriorTypeAdapterEnd" type="List" csv="Interior Type (Adapter End)" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="InteriorTypeAdapterEnd">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExteriorHousingMaterial" type="String" csv="Exterior Housing Material" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExteriorHousingMaterial">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="InteriorHousingMaterial" type="String" csv="Interior Housing Material" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="InteriorHousingMaterial">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExteriorHousingColor" type="String" csv="Exterior Housing Color" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExteriorHousingColor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="InteriorHousingColor" type="String" csv="Interior Housing Color" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="InteriorHousingColor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExteriorContactMaterial" type="Empty" csv="Exterior Contact Material" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExteriorContactMaterial">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="InteriorContactMaterial" type="Empty" csv="Interior Contact Material" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="InteriorContactMaterial">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExteriorContactFinish" type="Empty" csv="Exterior Contact Finish" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExteriorContactFinish">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="InteriorContactFinish" type="Empty" csv="Interior Contact Finish" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="InteriorContactFinish">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperatingTemperature" type="Range" csv="Operating Temperature" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperatingTemperature">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Ratings" type="String" csv="Ratings" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Ratings">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Specifications" type="Empty" csv="Specifications" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Specifications">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Features" type="Empty" csv="Features" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Features">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

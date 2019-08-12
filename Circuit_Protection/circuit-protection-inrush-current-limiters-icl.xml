@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<Table name="circuit-protection-inrush-current-limiters-icl" csv_file_name="circuit-protection-inrush-current-limiters-icl.csv" url="https://www.digikey.com/products/en/circuit-protection/inrush-current-limiters-icl/151"  title="Inrush Current Limiters (ICL)">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Packaging" type="String" csv="Packaging" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Packaging">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="R25C" type="IUnits" csv="R @ 25°C" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="R25C">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Tolerance" type="String" csv="Tolerance" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Tolerance">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CurrentSteadyStateMax" type="IUnits" csv="Current - Steady State Max" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CurrentSteadyStateMax">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="RCurrent" type="String" csv="R @ Current" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="RCurrent">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Diameter" type="String" csv="Diameter" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Diameter">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="LeadSpacing" type="String" csv="Lead Spacing" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="LeadSpacing">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Approvals" type="String" csv="Approvals" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Approvals">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

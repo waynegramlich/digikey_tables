@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<Table name="fans-thermal-management-dc-brushless-fans-bldc" csv_file_name="fans-thermal-management-dc-brushless-fans-bldc.csv" url="https://www.digikey.com/products/en/fans-thermal-management/dc-brushless-fans-bldc/217"  title="DC Brushless Fans (BLDC)">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VoltageRated" type="String" csv="Voltage - Rated" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VoltageRated">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SizeDimension" type="String" csv="Size / Dimension" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SizeDimension">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Width" type="String" csv="Width" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Width">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="AirFlow" type="String" csv="Air Flow" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="AirFlow">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="StaticPressure" type="String" csv="Static Pressure" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="StaticPressure">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="BearingType" type="String" csv="Bearing Type" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="BearingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FanType" type="String" csv="Fan Type" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FanType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Features" type="String" csv="Features" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Features">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Noise" type="String" csv="Noise" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Noise">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PowerWatts" type="FUnits" csv="Power (Watts)" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PowerWatts">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="RPM" type="String" csv="RPM" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="RPM">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Termination" type="String" csv="Termination" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Termination">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="IngressProtection" type="Empty" csv="Ingress Protection" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="IngressProtection">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperatingTemperature" type="String" csv="Operating Temperature" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperatingTemperature">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Approvals" type="List" csv="Approvals" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Approvals">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Weight" type="String" csv="Weight" csv_index="28">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Weight">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>

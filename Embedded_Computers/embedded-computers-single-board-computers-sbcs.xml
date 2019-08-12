@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<Table name="embedded-computers-single-board-computers-sbcs" csv_file_name="embedded-computers-single-board-computers-sbcs.csv" url="https://www.digikey.com/products/en/embedded-computers/single-board-computers-sbcs/933"  title="Single Board Computers (SBCs)">
+  <TableComments>
+    <TableComment language="EN">
+    </TableComment>
+  </TableComments>
+  <Parameters>
+    <Parameter name="Datasheets" type="URL" csv="﻿Datasheets" csv_index="0">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Datasheets">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Image" type="URL" csv="Image" csv_index="1">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Image">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigiKeyPartNumber" type="String" csv="Digi-Key Part Number" csv_index="2">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigiKeyPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ManufacturerPartNumber" type="String" csv="Manufacturer Part Number" csv_index="3">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ManufacturerPartNumber">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Manufacturer" type="String" csv="Manufacturer" csv_index="4">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Manufacturer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Description" type="String" csv="Description" csv_index="5">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Description">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="QuantityAvailable" type="Integer" csv="Quantity Available" csv_index="6">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="QuantityAvailable">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FactoryStock" type="Integer" csv="Factory Stock" csv_index="7">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FactoryStock">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="UnitPriceUSD" type="Float" csv="Unit Price (USD)" csv_index="8">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="UnitPriceUSD">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Qty" type="Integer" csv="@ qty" csv_index="9">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Qty">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="MinimumQuantity" type="Integer" csv="Minimum Quantity" csv_index="10">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="MinimumQuantity">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Series" type="String" csv="Series" csv_index="11">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Series">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PartStatus" type="String" csv="Part Status" csv_index="12">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PartStatus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CoreProcessor" type="String" csv="Core Processor" csv_index="13">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CoreProcessor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Speed" type="FUnits" csv="Speed" csv_index="14">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Speed">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="NumberOfCores" type="Integer" csv="Number of Cores" csv_index="15">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="NumberOfCores">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="PowerWatts" type="Empty" csv="Power (Watts)" csv_index="16">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="PowerWatts">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="CoolingType" type="Empty" csv="Cooling Type" csv_index="17">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="CoolingType">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="SizeDimension" type="String" csv="Size / Dimension" csv_index="18">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="SizeDimension">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="FormFactor" type="Empty" csv="Form Factor" csv_index="19">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="FormFactor">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="ExpansionSiteBus" type="Empty" csv="Expansion Site/Bus" csv_index="20">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="ExpansionSiteBus">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="RAMCapacityInstalled" type="String" csv="RAM Capacity/Installed" csv_index="21">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="RAMCapacityInstalled">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="StorageInterface" type="List" csv="Storage Interface" csv_index="22">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="StorageInterface">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="VideoOutputs" type="List" csv="Video Outputs" csv_index="23">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="VideoOutputs">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="Ethernet" type="String" csv="Ethernet" csv_index="24">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="Ethernet">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="USB" type="String" csv="USB" csv_index="25">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="USB">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="RS232422485" type="Empty" csv="RS-232 (422, 485)" csv_index="26">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="RS232422485">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="DigitalIOLines" type="Integer" csv="Digital I/O Lines" csv_index="27">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="DigitalIOLines">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="AnalogInputOutput" type="Empty" csv="Analog Input:Output" csv_index="28">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="AnalogInputOutput">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="WatchdogTimer" type="Empty" csv="Watchdog Timer" csv_index="29">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="WatchdogTimer">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+    <Parameter name="OperatingTemperature" type="Range" csv="Operating Temperature" csv_index="30">
+      <ParameterComments>
+        <ParameterComment language="EN" longHeading="OperatingTemperature">
+        </ParameterComment>
+      </ParameterComments>
+    </Parameter>
+  </Parameters>
+</Table>
